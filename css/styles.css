@@ -193,6 +193,8 @@ button {
 }
 
 .section:first-child {
+    margin: 0 auto;
+    max-width: 1440px;
     padding: 0;
     background-image: url(../images/people-office1.jpg);
     background-size: cover;
